@@ -27,3 +27,6 @@ ghostdriver.log
 .DS_Store
 *.patch
 local.yaml
+client/node_modules
+client/build
+client/npm-debug.log
