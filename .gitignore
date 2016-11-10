@@ -29,4 +29,5 @@ ghostdriver.log
 local.yaml
 client/node_modules
 client/build
+client/dist
 client/npm-debug.log
