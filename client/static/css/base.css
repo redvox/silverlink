@@ -1,0 +1,23 @@
+.main {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.verticalLine {
+    border-left: thick solid #ff0000;
+}
+
+.with-love {
+    color: #333;
+    display: inline-block;
+}
+
+.with-love .heart {
+    font-size: 1.4em;
+    color: #ff79c6;
+}
+
+.service_icon {
+    max-width: 100px;
+    margin-top: -7px;
+}
